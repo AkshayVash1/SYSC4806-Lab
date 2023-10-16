@@ -9,6 +9,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 
 import java.util.List;
@@ -57,5 +58,13 @@ public class AddressBookController {
         model.addAttribute("buddies", addressBook.getBuddyList());
         model.addAttribute("id", addressBookID);
         return "getBuddies";
+    }
+
+    @RequestMapping("/testGetAddressBook")
+    public AddressBook getAddressBook(@RequestParam(value="addressBookID") long addressBookID , Model model) {
+        AddressBook addressBook = addressBookRepository.findById(addressBookID);
+        model.addAttribute(addressBook);
+
+        return addressBook;
     }
 }

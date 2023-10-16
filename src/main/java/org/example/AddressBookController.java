@@ -11,6 +11,7 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.bind.annotation.ResponseBody;
 
 import java.util.List;
 
@@ -60,7 +61,8 @@ public class AddressBookController {
         return "getBuddies";
     }
 
-    @RequestMapping("/testGetAddressBook")
+    @GetMapping("/testGetAddressBook")
+    @ResponseBody
     public AddressBook getAddressBook(@RequestParam(value="addressBookID") long addressBookID , Model model) {
         AddressBook addressBook = addressBookRepository.findById(addressBookID);
         model.addAttribute(addressBook);

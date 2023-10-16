@@ -25,8 +25,10 @@ public class TestWebApplication {
     private TestRestTemplate restTemplate;
 
     @Test
-    public void greetingShouldReturnDefaultMessage() throws Exception {
-       ResponseEntity<AddressBook> restEntity = this.restTemplate.getForEntity("http://localhost:" + port +
+    public void getAddressBookTest() throws Exception {
+        this.restTemplate.getForEntity("http://localhost:" + port +
+                "/createBook1", String.class);
+        ResponseEntity<AddressBook> restEntity = this.restTemplate.getForEntity("http://localhost:" + port +
                "/testGetAddressBook?addressBookID=1", AddressBook.class);
         Assertions.assertEquals(1, Objects.requireNonNull(restEntity.getBody()).getId());
     }

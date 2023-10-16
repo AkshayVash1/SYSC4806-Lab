@@ -1,0 +1,450 @@
+GET http://localhost:8080/removeBuddy1?buddyID=1&addressBookID=1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-02T161335.200.html
+
+###
+
+GET http://localhost:8080/getBuddies1?addressBookID=1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-02T161330.200.html
+
+###
+
+GET http://localhost:8080/addBuddy1?name=billy&phoneNumber=613-222-2222&address=123 Way&addressBookID=1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-02T161325.200.html
+
+###
+
+GET http://localhost:8080/getBuddies1?addressBookID=1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-02T161320.200.html
+
+###
+
+GET http://localhost:8080/createBook1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-02T161312.200.html
+
+###
+
+GET http://localhost:8080/getBuddies1?addressBookID=1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-02T155432.200.html
+
+###
+
+GET http://localhost:8080/removeBuddy1?buddyID=1&addressBookID=1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-02T155429.200.html
+
+###
+
+GET http://localhost:8080/addBuddy1?name=billy&phoneNumber=613-222-2222&address=123 Way&addressBookID=1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-02T155427.200.html
+
+###
+
+GET http://localhost:8080/createBook1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-02T155425.200.html
+
+###
+
+GET http://localhost:8080/removeBuddy1?buddyID=1&addressBookID=1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-02T155402.200.html
+
+###
+
+GET http://localhost:8080/addBuddy1?name=billy&phoneNumber=613-222-2222&address=123 Way&addressBookID=1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-02T155400.200.html
+
+###
+
+GET http://localhost:8080/createBook1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-02T155359.200.html
+
+###
+
+GET http://localhost:8080/getBuddies1?addressBookID=1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-02T155246.200.html
+
+###
+
+GET http://localhost:8080/removeBuddy1?buddyID=1&addressBookID=1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-02T155237.200.html
+
+###
+
+GET http://localhost:8080/addBuddy1?name=billy&phoneNumber=613-222-2222&address=123 Way&addressBookID=1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-02T155234.200.html
+
+###
+
+GET http://localhost:8080/createBook1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-02T155231.200.html
+
+###
+
+GET http://localhost:8080/removeBuddy1?buddyID=1&addressBookID=1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-02T155027.200.html
+
+###
+
+GET http://localhost:8080/getBuddies1?addressBookID=1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-02T155020.200.html
+
+###
+
+GET http://localhost:8080/createBook1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-02T155015.200.html
+
+###
+
+GET http://localhost:8080/addBuddy1?name=billy&phoneNumber=613-222-2222&address=123 Way&addressBookID=1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-02T155001.200.html
+
+###
+
+GET http://localhost:8080/getBuddies1?addressBookID=1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-02T154833.200.html
+
+###
+
+GET http://localhost:8080/removeBuddy1?buddyID=1&addressBookID=1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-02T154818.200.html
+
+###
+
+GET http://localhost:8080/addBuddy1?name=billy&phoneNumber=613-222-2222&address=123 Way&addressBookID=1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-02T154808.200.html
+
+###
+
+GET http://localhost:8080/createBook1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-02T154805.200.html
+
+###
+
+GET http://localhost:8080/addBuddy1?name=billy&phoneNumber=613-222-2222&address=123 Way&addressBookID=1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-02T154643.200.html
+
+###
+
+GET http://localhost:8080/createBook1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-02T154641.200.html
+
+###
+
+GET http://localhost:8080/addBuddy1?name=billy&phoneNumber=613-222-2222&address=123 Way&addressBookID=1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-02T154638.500.json
+
+###
+
+GET http://localhost:8080/getBuddies1?addressBookID=1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-02T153853.200.html
+
+###
+
+GET http://localhost:8080/removeBuddy1?buddyID=1&addressBookID=1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-02T153850.200.html
+
+###
+
+GET http://localhost:8080/getBuddies1?addressBookID=1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-02T153843.200.html
+
+###
+
+GET http://localhost:8080/getBuddies1?addressBookID=1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-02T153840.200.html
+
+###
+
+GET http://localhost:8080/removeBuddy1?buddyID=1&addressBookID=1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-02T153837.200.html
+
+###
+
+GET http://localhost:8080/addBuddy1?name=billy&phoneNumber=613-222-2222&address=123 Way&addressBookID=1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-02T153832.200.html
+
+###
+
+GET http://localhost:8080/createBook1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-02T153830.200.html
+
+###
+
+GET http://localhost:8080/removeBuddy1?buddyID=1&addressBookID=1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-02T153710.200.html
+
+###
+
+GET http://localhost:8080/addBuddy1?name=billy&phoneNumber=613-222-2222&address=123 Way&addressBookID=1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-02T153708.200.html
+
+###
+
+GET http://localhost:8080/createBook1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-02T153706.200.html
+
+###
+
+GET http://localhost:8080/removeBuddy1?buddyID=1&addressBookID=1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-02T153628.200.html
+
+###
+
+GET http://localhost:8080/addBuddy1?name=billy&phoneNumber=613-222-2222&address=123 Way&addressBookID=1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-02T153625.200.html
+
+###
+
+GET http://localhost:8080/createBook1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-02T153623.200.html
+
+###
+
+GET http://localhost:8080/removeBuddy1?buddyID=1&addressBookID=1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-02T153454.200.html
+
+###
+
+GET http://localhost:8080/addBuddy1?name=billy&phoneNumber=613-222-2222&address=123 Way&addressBookID=1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-02T153453.200.html
+
+###
+
+GET http://localhost:8080/createBook1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-02T153451.200.html
+
+###
+
+GET http://localhost:8080/removeBuddy1?buddyID=1&addressBookID=1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-02T153331.500.json
+
+###
+
+GET http://localhost:8080/addBuddy1?name=billy&phoneNumber=613-222-2222&address=123 Way&addressBookID=1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-02T153323.200.html
+
+###
+
+GET http://localhost:8080/createBook1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-02T153321.200.html
+
+###
+
+GET http://localhost:8080/getBuddies1?addressBookID=1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-02T152846.200.html
+
+###
+
+GET http://localhost:8080/removeBuddy1?buddyID=1&addressBookID=1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-02T152844.500.json
+
+###
+
+GET http://localhost:8080/addBuddy1?name=billy&phoneNumber=613-222-2222&address=123 Way&addressBookID=1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-02T152842.200.html
+
+###
+
+GET http://localhost:8080/createBook1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-02T152840.200.html
+
+###
+
